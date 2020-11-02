@@ -19,12 +19,12 @@ namespace DONANIM
 
         public override void TransferTime()
         {
-            Console.Write("Yavaş Aktarım ");
+            Console.WriteLine("Hızlı Aktarım ");
         }
 
-        public override void Use()
+        public override void Performance()
         {
-            Console.WriteLine("Yavaş Açılış");
+            Console.WriteLine("Oyunlarda Güçsüz, Ofis İşlerinde Yeterli");
         }
     }
 }

@@ -34,7 +34,7 @@ namespace DONANIM
              Console.Write("SSD Aktarım = ");
         }
 
-        public virtual void Use()
+        public virtual void Performance()
         {
              Console.WriteLine("SSD Açılış = ");
         }

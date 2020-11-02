@@ -1,0 +1,14 @@
+C:\Users\ÖZTÜRK\source\repos\DONANIM\DONANIM\bin\Debug\DONANIM.exe.config
+C:\Users\ÖZTÜRK\source\repos\DONANIM\DONANIM\bin\Debug\DONANIM.exe
+C:\Users\ÖZTÜRK\source\repos\DONANIM\DONANIM\bin\Debug\DONANIM.pdb
+C:\Users\ÖZTÜRK\source\repos\DONANIM\DONANIM\obj\Debug\DONANIM.csprojAssemblyReference.cache
+C:\Users\ÖZTÜRK\source\repos\DONANIM\DONANIM\obj\Debug\DONANIM.csproj.CoreCompileInputs.cache
+C:\Users\ÖZTÜRK\source\repos\DONANIM\DONANIM\obj\Debug\DONANIM.exe
+C:\Users\ÖZTÜRK\source\repos\DONANIM\DONANIM\obj\Debug\DONANIM.pdb
+C:\Users\ÖZTÜRK\Desktop\TURUNCU WEB\HAFTA3\DONANIM\DONANIM\bin\Debug\DONANIM.exe.config
+C:\Users\ÖZTÜRK\Desktop\TURUNCU WEB\HAFTA3\DONANIM\DONANIM\bin\Debug\DONANIM.exe
+C:\Users\ÖZTÜRK\Desktop\TURUNCU WEB\HAFTA3\DONANIM\DONANIM\bin\Debug\DONANIM.pdb
+C:\Users\ÖZTÜRK\Desktop\TURUNCU WEB\HAFTA3\DONANIM\DONANIM\obj\Debug\DONANIM.csprojAssemblyReference.cache
+C:\Users\ÖZTÜRK\Desktop\TURUNCU WEB\HAFTA3\DONANIM\DONANIM\obj\Debug\DONANIM.csproj.CoreCompileInputs.cache
+C:\Users\ÖZTÜRK\Desktop\TURUNCU WEB\HAFTA3\DONANIM\DONANIM\obj\Debug\DONANIM.exe
+C:\Users\ÖZTÜRK\Desktop\TURUNCU WEB\HAFTA3\DONANIM\DONANIM\obj\Debug\DONANIM.pdb

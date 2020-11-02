@@ -10,14 +10,14 @@ namespace DONANIM
     {
         static void Main(string[] args)
         {
-            PcSsd pcssd = new PcSsd("Ssd" , "Ryzen 5 1600" , "Ddr4" , "GDdr5" , 10);
+            PcOyun pcssd = new PcOyun("Ssd" , "Ryzen 5 1600" , "Ddr4" , "GDdr5" , 10);
             pcssd.Details();
             pcssd.TransferTime();
             pcssd.Use();
              
             Console.WriteLine(" ");
 
-            PcHdd pchdd = new PcHdd("Hdd", "Ryzen 3 1300x", "Ddr3", "GDdr4", 40);
+            PcOfis pchdd = new PcOfis("Hdd", "İntel Core i3 3220", "Ddr3", "GDdr4", 40);
             pchdd.Details();
             pchdd.TransferTime();
             pchdd.Use();

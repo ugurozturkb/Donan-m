@@ -47,8 +47,8 @@
   <ItemGroup>
     <Compile Include="Interface1.cs" />
     <Compile Include="Pc.cs" />
-    <Compile Include="PcHdd.cs" />
-    <Compile Include="PcSsd.cs" />
+    <Compile Include="PcOfis.cs" />
+    <Compile Include="PcOyun.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

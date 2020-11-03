@@ -11,13 +11,17 @@ namespace DONANIM
     {          
          public string Processor { get; set; }
 
-         public string DisplayCard { get; set; }
+        public string DisplayCard { get; set; }
+
+        public string DisplayCardType { get; set; }
 
          public string MemoryType { get; set; }
     
          public string RamType { get; set; }
 
          public int OpenTime { get; set; }
+        
+         public int RamCapacity { get; set; }
 
          public void Off()
          {
@@ -41,11 +45,13 @@ namespace DONANIM
             
         public void Details() 
         {
-            Console.WriteLine("Hafıza Türü: {0}", MemoryType);
-            Console.WriteLine("İşlemci: {0}", Processor);
-            Console.WriteLine("Ram Türü: {0}", RamType);
-            Console.WriteLine("Ekran Kartı Türü: {0}", DisplayCard);
-            Console.WriteLine("Açılış Süresi: {0}", OpenTime);
+            Console.WriteLine("Hafıza Türü : {0}", MemoryType);
+            Console.WriteLine("İşlemci : {0}", Processor);
+            Console.WriteLine("Ram Türü : {0}", RamType);
+            Console.WriteLine("Ekran Kartı : {0}", DisplayCard);
+            Console.WriteLine("Ekran Kartı Türü : {0}", DisplayCardType);
+            Console.WriteLine("Açılış Süresi : {0}", OpenTime);
+            Console.WriteLine("Ram Kapasitesi : {0}", RamCapacity);
         }
     }
     

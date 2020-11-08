@@ -8,15 +8,17 @@ namespace DONANIM
 {
     public class PcOfis : Pc
     {
-        public PcOfis(string v, string v1, string v2, string v3, string v4, int v5, int v6)
+        public PcOfis(string v, string v1, string v2, string v3, string v4, string v5, int v6, int v7, int v8)
         {
-            MemoryType = v;
-            Processor = v1;
-            RamType = v2;
-            DisplayCard = v3;
-            DisplayCardType = v4;
-            OpenTime = v5;
-            RamCapacity = v6;
+            Opening = v;
+            MemoryType = v1;
+            Processor = v2;
+            RamType = v3;
+            DisplayCard = v4;
+            DisplayCardType = v5;
+            OpenTime = v6;
+            RamCapacity = v7;
+            PointProcessor = v8;
         }
 
         public override void TransferTime()
@@ -28,5 +30,6 @@ namespace DONANIM
         {
             Console.WriteLine("Oyunlarda Güçsüz, Ofis İşlerinde Yeterli");
         }
+
     }
 }

@@ -49,6 +49,7 @@
     <Compile Include="Pc.cs" />
     <Compile Include="PcOfis.cs" />
     <Compile Include="PcOyun.cs" />
+    <Compile Include="Point.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

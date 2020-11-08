@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace DONANIM
 {
-    public class PcOyun : Pc
+    public class Point : Pc
     {
-        public PcOyun(string v, string v1, string v2, string v3, string v4, string v5, int v6, int v7, int v8)
+        public Point(string v, string v1, string v2, string v3, string v4, string v5, int v6, int v7, int v8)
         {
             Opening = v;
             MemoryType = v1;
@@ -30,6 +30,6 @@ namespace DONANIM
         {
             Console.WriteLine("Oyunlarda Güçlü, Ofis İşlerinde Yetersiz");
         }
-        
+
     }
 }

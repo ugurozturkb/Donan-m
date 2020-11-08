@@ -27,6 +27,8 @@ namespace DONANIM
 
         public int PointProcessor { get; set; }
 
+        public int PointDisplayCard { get; set; }
+
         public void Off()
         {
             throw new NotImplementedException();
@@ -58,6 +60,7 @@ namespace DONANIM
             Console.WriteLine("Açılış Süresi : {0}", OpenTime);
             Console.WriteLine("Ram Kapasitesi : {0}", RamCapacity);
             Console.WriteLine("İşlemsi Puanı : {0}", PointProcessor);
+            Console.WriteLine("Ekran Kartı Puanı : {0}", PointDisplayCard);
         }
     }
     

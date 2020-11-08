@@ -10,14 +10,15 @@ namespace DONANIM
     {
         static void Main(string[] args)
         {
-            PcOyun pcOyun = new PcOyun("","Ssd" , "Ryzen 5 1600" , "Ddr4" , "Rx580" , "GDdr5" , 10, 8, 80);
+            PcOyun pcOyun = new PcOyun("","Ssd" , "Ryzen 5 1600" , "Ddr4" , "Rx580" , "GDdr5" , 10, 8, 80, 70);
             pcOyun.Details();
             pcOyun.TransferTime();
             pcOyun.Performance();
              
             Console.WriteLine("");
+            Console.WriteLine("");
 
-            PcOfis pcOfis = new PcOfis("", "Ssd", "Ryzen 5 1600", "Ddr4", "Rx580", "GDdr5", 10, 8, 60);
+            PcOfis pcOfis = new PcOfis("", "Ssd", "Ryzen 5 1600", "Ddr4", "Rx580", "GDdr5", 10, 8, 50, 90);
             pcOfis.Details();
             pcOfis.TransferTime();
             pcOfis.Performance();

@@ -8,7 +8,7 @@ namespace DONANIM
 {
     public class PcOyun : Pc
     {
-        public PcOyun(string v, string v1, string v2, string v3, string v4, string v5, int v6, int v7, int v8)
+        public PcOyun(string v, string v1, string v2, string v3, string v4, string v5, int v6, int v7, int v8, int v9)
         {
             Opening = v;
             MemoryType = v1;
@@ -19,6 +19,7 @@ namespace DONANIM
             OpenTime = v6;
             RamCapacity = v7;
             PointProcessor = v8;
+            PointDisplayCard = v9;
         }
 
         public override void TransferTime()
